@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>銘柄ウォッチ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>銘柄ウォッチ</h1>
+  <div class="meta"><span id="updated"></span>
+    <button id="settingsBtn" class="icon-btn" title="設定">⚙</button>
+  </div>
+</header>
+
+<nav id="tabs">
+  <button data-tab="long" class="tab active">長期保有</button>
+  <button data-tab="short" class="tab">短期売買</button>
+  <button data-tab="holdings" class="tab">仮想保有</button>
+</nav>
+
+<main>
+  <section id="tab-long" class="tab-pane active">
+    <h2>長期保有の候補(配当を受け取り続ける目的)</h2>
+    <p class="note">「高配当・割安・減配しにくい」の全条件を満たした銘柄だけを表示しています(利回り基準: <span id="longThreshold">-</span>以上)</p>
+    <div id="longList"></div>
+    <details><summary>判定材料が足りず保留にした銘柄</summary><div id="longInsufficient"></div></details>
+  </section>
+
+  <section id="tab-short" class="tab-pane">
+    <h2>上方修正の先回り候補(発表前に仕込む)</h2>
+    <p class="note">業績の進み方が異常に速く、30日以内に決算発表を控えた銘柄です。上方修正が発表されると株価が上がりやすいため、発表前に買っておく戦略です</p>
+    <div id="kessanList"></div>
+    <h2>テーマ候補(物色の波及を先回りする)</h2>
+    <form id="themeForm">
+      <input id="themeName" placeholder="テーマ名(例:AIデータセンター電力)" required>
+      <input id="themeMemo" placeholder="根拠メモ(任意)">
+      <button type="submit">テーマ登録</button>
+    </form>
+    <div id="themeList"></div>
+  </section>
+
+  <section id="tab-holdings" class="tab-pane">
+    <h2>お知らせ</h2>
+    <div id="notifications"></div>
+    <h2>仮想保有銘柄</h2>
+    <div id="holdingsList"></div>
+  </section>
+</main>
+
+<div id="settingsModal" class="modal hidden">
+  <div class="modal-body">
+    <h3>接続設定</h3>
+    <p class="note">操作(選択・削除・テーマ登録)の送信に必要です。初回のみ設定してください。</p>
+    <label>アクセストークン<input id="cfgToken" type="password" placeholder="github_pat_..."></label>
+    <label>データ置き場(owner/repo)<input id="cfgRepo" placeholder="yourname/kabu"></label>
+    <div class="row">
+      <button id="saveSettings">保存</button>
+      <button id="closeSettings" class="secondary">閉じる</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="hidden"></div>
+<script src="app.js"></script>
+</body>
+</html>
