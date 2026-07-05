@@ -122,6 +122,15 @@ function renderLong(d) {
           <li><span class="ok">✓</span> ${esc(c.label)}
             <b>${esc(c.value)}</b><span class="rule">(基準:${esc(c.rule)})</span></li>`).join("")}
       </ul>
+      ${r.score != null && r.score_breakdown ? `
+      <details><summary>スコア内訳 合計${r.score}点(上位20銘柄に絞り込み)</summary>
+        <ul class="criteria">
+          <li>配当利回り(高いほど加点) <b>${r.score_breakdown.yield}</b>/40点</li>
+          <li>自己資本比率(高いほど加点) <b>${r.score_breakdown.equity}</b>/30点</li>
+          <li>割安度:PBR(低いほど加点) <b>${r.score_breakdown.pbr}</b>/15点</li>
+          <li>割安度:PER(低いほど加点) <b>${r.score_breakdown.per}</b>/15点</li>
+        </ul>
+      </details>` : ""}
       <details><summary>買う前の最終確認リスト(機械では判定できない項目)</summary>
         <ul class="checklist">${(r.checklist || []).map(c => `<li>${esc(c)}</li>`).join("")}</ul>
       </details>
