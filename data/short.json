@@ -1,41 +1,4 @@
 {
- "kessan": [
-  {
-   "code": "6501", "name": "サンプル電機", "module": "kessan",
-   "period": "2Q", "progress": 0.74, "threshold_a": 0.65,
-   "prior_avg": 0.52, "announce_date": "2026-07-28", "days_to_announce": 24,
-   "turnover20": 2500000000.0, "price": 3950.0,
-   "summary": "2Q時点で通期予想の74%をすでに達成(合格基準65%、例年の同時期は52%)。このペースなら上方修正の開示義務が生じやすく、発表前の仕込み候補です。"
-  }
- ],
- "themes": {
-  "AIデータセンター電力": [
-   {
-    "code": "1944", "name": "サンプル電設", "module": "theme",
-    "theme": "AIデータセンター電力", "score": 78.5,
-    "breakdown": {"untouched": 33.3, "financial": 20.0, "funda": 11.2, "liquidity": 7.0, "purity": 7.0},
-    "return_1m": 0.05, "hot_flag": false,
-    "points": [
-     "まだ大きく買われていない(1ヶ月+5.0%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ],
-    "reason": "データセンター向け電気設備工事の受注が拡大(サンプル)",
-    "price": 2210.0, "financial_ok": true
-   },
-   {
-    "code": "6503", "name": "サンプル重電", "module": "theme",
-    "theme": "AIデータセンター電力", "score": 52.0,
-    "breakdown": {"untouched": 0.0, "financial": 20.0, "funda": 16.0, "liquidity": 10.0, "purity": 6.0},
-    "return_1m": 0.34, "hot_flag": true,
-    "points": [
-     "注意:直近1ヶ月で34.0%上昇済み → 初動は終わった可能性",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ],
-    "reason": "変電・配電機器でデータセンター需要を取り込む(サンプル)",
-    "price": 8800.0, "financial_ok": true
-   }
-  ]
- }
+ "kessan": [],
+ "themes": {}
 }
