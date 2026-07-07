@@ -1,4 +1,29 @@
 {
- "positions": [],
+ "positions": [
+  {
+   "id": "256a85b8",
+   "code": "7646",
+   "name": "ＰＬＡＮＴ",
+   "module": "long",
+   "theme": null,
+   "entry_date": "2026-07-07",
+   "entry_price": 1773.0,
+   "current_price": null,
+   "return": null,
+   "exit": {
+    "type": "long",
+    "conditions": [
+     "減配の発表",
+     "配当性向80%超が2期継続",
+     "買った理由(テーゼ)の崩壊"
+    ],
+    "triggered": []
+   },
+   "alerts": [],
+   "status": "open",
+   "close_reason": null,
+   "close_date": null
+  }
+ ],
  "notifications": []
 }
