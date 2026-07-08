@@ -5,18 +5,18 @@
    "code": "6658",
    "name": "シライ電子工業",
    "sector33": "3650",
-   "price": 447.0,
-   "yield": 0.0783,
-   "per": 4.78,
-   "pbr": 0.68,
+   "price": 444.0,
+   "yield": 0.0788,
+   "per": 4.75,
+   "pbr": 0.67,
    "equity_ratio": 0.521,
    "roe": 0.198,
    "payout": 0.374,
-   "score": 75.4,
+   "score": 76.0,
    "score_breakdown": {
-    "yield": 38.3,
+    "yield": 38.8,
     "equity": 9.1,
-    "pbr": 13.0,
+    "pbr": 13.1,
     "per": 15.0
    },
    "stock_type_bonus": false,
@@ -30,19 +30,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "7.8%",
+     "value": "7.9%",
      "rule": "4.0%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.68倍",
+     "value": "0.67倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "4.78倍",
+     "value": "4.75倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -65,22 +65,22 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り7.8%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+   "summary": "予想利回り7.9%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
    "code": "5410",
    "name": "合同製鐵",
    "sector33": "3450",
-   "price": 2699.0,
-   "yield": 0.0667,
-   "per": 4.64,
+   "price": 2675.0,
+   "yield": 0.0673,
+   "per": 4.6,
    "pbr": 0.29,
    "equity_ratio": 0.53,
    "roe": 0.08,
    "payout": 0.31,
-   "score": 66.5,
+   "score": 67.1,
    "score_breakdown": {
-    "yield": 26.7,
+    "yield": 27.3,
     "equity": 9.8,
     "pbr": 15.0,
     "per": 15.0
@@ -108,7 +108,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "4.64倍",
+     "value": "4.6倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -137,18 +137,18 @@
    "code": "5445",
    "name": "東京鐵鋼",
    "sector33": "3450",
-   "price": 1910.0,
-   "yield": 0.0524,
-   "per": 6.06,
+   "price": 1902.0,
+   "yield": 0.0526,
+   "per": 6.03,
    "pbr": 0.83,
    "equity_ratio": 0.772,
    "roe": 0.176,
    "payout": 0.317,
-   "score": 64.3,
+   "score": 64.6,
    "score_breakdown": {
-    "yield": 12.4,
+    "yield": 12.6,
     "equity": 27.9,
-    "pbr": 9.1,
+    "pbr": 9.2,
     "per": 14.9
    },
    "stock_type_bonus": false,
@@ -162,7 +162,7 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "5.2%",
+     "value": "5.3%",
      "rule": "4.0%以上",
      "ok": true
     },
@@ -174,7 +174,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.06倍",
+     "value": "6.03倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -197,25 +197,25 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り5.2%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+   "summary": "予想利回り5.3%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
    "code": "9856",
    "name": "ケーユーホールディングス",
    "sector33": "6100",
-   "price": 1172.0,
-   "yield": 0.0495,
-   "per": 6.53,
+   "price": 1167.0,
+   "yield": 0.0497,
+   "per": 6.5,
    "pbr": 0.57,
    "equity_ratio": 0.719,
    "roe": 0.095,
    "payout": 0.323,
-   "score": 62.1,
+   "score": 62.4,
    "score_breakdown": {
-    "yield": 9.5,
+    "yield": 9.7,
     "equity": 23.9,
     "pbr": 15.0,
-    "per": 13.7
+    "per": 13.8
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -240,7 +240,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.53倍",
+     "value": "6.5倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -269,19 +269,19 @@
    "code": "6419",
    "name": "マースグループホールディングス",
    "sector33": "3600",
-   "price": 3100.0,
-   "yield": 0.0484,
-   "per": 8.73,
+   "price": 3115.0,
+   "yield": 0.0482,
+   "per": 8.77,
    "pbr": 0.69,
    "equity_ratio": 0.906,
    "roe": 0.105,
    "payout": 0.423,
-   "score": 59.4,
+   "score": 59.0,
    "score_breakdown": {
-    "yield": 8.4,
+    "yield": 8.2,
     "equity": 30.0,
-    "pbr": 12.8,
-    "per": 8.2
+    "pbr": 12.7,
+    "per": 8.1
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -306,7 +306,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "8.73倍",
+     "value": "8.77倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -401,19 +401,19 @@
    "code": "6430",
    "name": "ダイコク電機",
    "sector33": "3600",
-   "price": 2351.0,
-   "yield": 0.0425,
-   "per": 7.27,
+   "price": 2333.0,
+   "yield": 0.0429,
+   "per": 7.21,
    "pbr": 0.75,
    "equity_ratio": 0.807,
    "roe": 0.153,
    "payout": 0.309,
-   "score": 55.5,
+   "score": 56.2,
    "score_breakdown": {
-    "yield": 2.5,
+    "yield": 2.9,
     "equity": 30.0,
-    "pbr": 11.2,
-    "per": 11.8
+    "pbr": 11.3,
+    "per": 12.0
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -426,7 +426,7 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "4.2%",
+     "value": "4.3%",
      "rule": "4.0%以上",
      "ok": true
     },
@@ -438,7 +438,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "7.27倍",
+     "value": "7.21倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -461,24 +461,24 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り4.2%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+   "summary": "予想利回り4.3%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
    "code": "2763",
    "name": "エフティグループ",
    "sector33": "6050",
-   "price": 1108.0,
-   "yield": 0.0496,
-   "per": 6.86,
-   "pbr": 1.1,
+   "price": 1112.0,
+   "yield": 0.0495,
+   "per": 6.89,
+   "pbr": 1.11,
    "equity_ratio": 0.792,
    "roe": 0.198,
    "payout": 0.341,
-   "score": 54.2,
+   "score": 54.0,
    "score_breakdown": {
-    "yield": 9.6,
+    "yield": 9.5,
     "equity": 29.4,
-    "pbr": 2.4,
+    "pbr": 2.3,
     "per": 12.8
    },
    "stock_type_bonus": false,
@@ -498,13 +498,13 @@
     },
     {
      "label": "PBR(割安さ)",
-     "value": "1.1倍",
+     "value": "1.11倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.86倍",
+     "value": "6.89倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -533,19 +533,19 @@
    "code": "6249",
    "name": "ゲームカードホールディングス",
    "sector33": "3600",
-   "price": 2479.0,
-   "yield": 0.0403,
-   "per": 9.93,
-   "pbr": 0.59,
+   "price": 2499.0,
+   "yield": 0.04,
+   "per": 10.01,
+   "pbr": 0.6,
    "equity_ratio": 0.903,
    "roe": 0.108,
    "payout": 0.401,
-   "score": 50.5,
+   "score": 50.0,
    "score_breakdown": {
-    "yield": 0.3,
+    "yield": 0.0,
     "equity": 30.0,
     "pbr": 15.0,
-    "per": 5.2
+    "per": 5.0
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -564,13 +564,13 @@
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.59倍",
+     "value": "0.6倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "9.93倍",
+     "value": "10.01倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -599,19 +599,19 @@
    "code": "9622",
    "name": "スペース",
    "sector33": "9050",
-   "price": 1465.0,
-   "yield": 0.0478,
-   "per": 11.23,
-   "pbr": 1.03,
+   "price": 1445.0,
+   "yield": 0.0484,
+   "per": 11.07,
+   "pbr": 1.02,
    "equity_ratio": 0.772,
    "roe": 0.108,
    "payout": 0.536,
-   "score": 41.8,
+   "score": 43.2,
    "score_breakdown": {
-    "yield": 7.8,
+    "yield": 8.4,
     "equity": 27.9,
-    "pbr": 4.2,
-    "per": 1.9
+    "pbr": 4.6,
+    "per": 2.3
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -630,13 +630,13 @@
     },
     {
      "label": "PBR(割安さ)",
-     "value": "1.03倍",
+     "value": "1.02倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "11.23倍",
+     "value": "11.07倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -662,88 +662,22 @@
    "summary": "予想利回り4.8%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
-   "code": "9628",
-   "name": "燦ホールディングス",
-   "sector33": "9050",
-   "price": 1405.0,
-   "yield": 0.0406,
-   "per": 8.17,
-   "pbr": 0.77,
-   "equity_ratio": 0.648,
-   "roe": 0.123,
-   "payout": 0.331,
-   "score": 39.5,
-   "score_breakdown": {
-    "yield": 0.6,
-    "equity": 18.6,
-    "pbr": 10.7,
-    "per": 9.6
-   },
-   "stock_type_bonus": false,
-   "checklist": [
-    "累進配当/DOEの宣言有無:未判定(人間確認)",
-    "東証のPBR1倍割れ改善要請への対応開示(資本コスト経営の開示の有無・質)",
-    "政策保有株の売却進行(売却益→還元原資の期待)",
-    "ネットキャッシュの厚さ+低配当性向(増配余地)",
-    "アクティビスト保有(大量保有報告書の提出履歴)"
-   ],
-   "criteria": [
-    {
-     "label": "予想配当利回り",
-     "value": "4.1%",
-     "rule": "4.0%以上",
-     "ok": true
-    },
-    {
-     "label": "PBR(割安さ)",
-     "value": "0.77倍",
-     "rule": "1.2倍以下",
-     "ok": true
-    },
-    {
-     "label": "PER(割安さ)",
-     "value": "8.17倍",
-     "rule": "12倍以下",
-     "ok": true
-    },
-    {
-     "label": "自己資本比率(財務耐性)",
-     "value": "64.8%",
-     "rule": "40%以上",
-     "ok": true
-    },
-    {
-     "label": "ROE(収益性=バリュートラップ回避)",
-     "value": "12.3%",
-     "rule": "8%以上",
-     "ok": true
-    },
-    {
-     "label": "配当性向(配当の無理のなさ)",
-     "value": "33.1%",
-     "rule": "30%〜60%",
-     "ok": true
-    }
-   ],
-   "summary": "予想利回り4.1%で、割安・財務・収益性・配当余力の全条件を満たしています。"
-  },
-  {
    "code": "7239",
    "name": "タチエス",
    "sector33": "3700",
-   "price": 2171.0,
-   "yield": 0.0478,
-   "per": 9.31,
-   "pbr": 0.77,
+   "price": 2141.0,
+   "yield": 0.0485,
+   "per": 9.18,
+   "pbr": 0.76,
    "equity_ratio": 0.564,
    "roe": 0.115,
    "payout": 0.445,
-   "score": 37.5,
+   "score": 38.7,
    "score_breakdown": {
-    "yield": 7.8,
+    "yield": 8.5,
     "equity": 12.3,
-    "pbr": 10.7,
-    "per": 6.7
+    "pbr": 10.9,
+    "per": 7.0
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -756,19 +690,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "4.8%",
+     "value": "4.9%",
      "rule": "4.0%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.77倍",
+     "value": "0.76倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "9.31倍",
+     "value": "9.18倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -791,25 +725,25 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り4.8%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+   "summary": "予想利回り4.9%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
    "code": "5936",
    "name": "東洋シヤッター",
    "sector33": "3550",
-   "price": 933.0,
-   "yield": 0.0429,
-   "per": 7.39,
+   "price": 929.0,
+   "yield": 0.0431,
+   "per": 7.35,
    "pbr": 0.62,
    "equity_ratio": 0.514,
    "roe": 0.081,
    "payout": 0.317,
-   "score": 37.3,
+   "score": 37.7,
    "score_breakdown": {
-    "yield": 2.9,
+    "yield": 3.1,
     "equity": 8.5,
-    "pbr": 14.4,
-    "per": 11.5
+    "pbr": 14.5,
+    "per": 11.6
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -834,7 +768,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "7.39倍",
+     "value": "7.35倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -860,87 +794,21 @@
    "summary": "予想利回り4.3%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
-   "code": "2153",
-   "name": "Ｅ・Ｊホールディングス",
-   "sector33": "9050",
-   "price": 1671.0,
-   "yield": 0.0413,
-   "per": 8.88,
-   "pbr": 0.77,
-   "equity_ratio": 0.62,
-   "roe": 0.091,
-   "payout": 0.367,
-   "score": 36.3,
-   "score_breakdown": {
-    "yield": 1.3,
-    "equity": 16.5,
-    "pbr": 10.7,
-    "per": 7.8
-   },
-   "stock_type_bonus": false,
-   "checklist": [
-    "累進配当/DOEの宣言有無:未判定(人間確認)",
-    "東証のPBR1倍割れ改善要請への対応開示(資本コスト経営の開示の有無・質)",
-    "政策保有株の売却進行(売却益→還元原資の期待)",
-    "ネットキャッシュの厚さ+低配当性向(増配余地)",
-    "アクティビスト保有(大量保有報告書の提出履歴)"
-   ],
-   "criteria": [
-    {
-     "label": "予想配当利回り",
-     "value": "4.1%",
-     "rule": "4.0%以上",
-     "ok": true
-    },
-    {
-     "label": "PBR(割安さ)",
-     "value": "0.77倍",
-     "rule": "1.2倍以下",
-     "ok": true
-    },
-    {
-     "label": "PER(割安さ)",
-     "value": "8.88倍",
-     "rule": "12倍以下",
-     "ok": true
-    },
-    {
-     "label": "自己資本比率(財務耐性)",
-     "value": "62.0%",
-     "rule": "40%以上",
-     "ok": true
-    },
-    {
-     "label": "ROE(収益性=バリュートラップ回避)",
-     "value": "9.1%",
-     "rule": "8%以上",
-     "ok": true
-    },
-    {
-     "label": "配当性向(配当の無理のなさ)",
-     "value": "36.7%",
-     "rule": "30%〜60%",
-     "ok": true
-    }
-   ],
-   "summary": "予想利回り4.1%で、割安・財務・収益性・配当余力の全条件を満たしています。"
-  },
-  {
    "code": "6402",
    "name": "兼松エンジニアリング",
    "sector33": "3600",
-   "price": 1487.0,
-   "yield": 0.0444,
-   "per": 7.74,
+   "price": 1490.0,
+   "yield": 0.0443,
+   "per": 7.76,
    "pbr": 1.02,
    "equity_ratio": 0.621,
    "roe": 0.09,
    "payout": 0.344,
-   "score": 36.2,
+   "score": 36.0,
    "score_breakdown": {
-    "yield": 4.4,
+    "yield": 4.3,
     "equity": 16.6,
-    "pbr": 4.6,
+    "pbr": 4.5,
     "per": 10.6
    },
    "stock_type_bonus": false,
@@ -966,7 +834,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "7.74倍",
+     "value": "7.76倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -1058,22 +926,88 @@
    "summary": "予想利回り4.4%で、割安・財務・収益性・配当余力の全条件を満たしています。収益が景気に左右されにくい業種(ストック型)です。"
   },
   {
+   "code": "2153",
+   "name": "Ｅ・Ｊホールディングス",
+   "sector33": "9050",
+   "price": 1685.0,
+   "yield": 0.0409,
+   "per": 8.96,
+   "pbr": 0.78,
+   "equity_ratio": 0.62,
+   "roe": 0.091,
+   "payout": 0.367,
+   "score": 35.6,
+   "score_breakdown": {
+    "yield": 0.9,
+    "equity": 16.5,
+    "pbr": 10.6,
+    "per": 7.6
+   },
+   "stock_type_bonus": false,
+   "checklist": [
+    "累進配当/DOEの宣言有無:未判定(人間確認)",
+    "東証のPBR1倍割れ改善要請への対応開示(資本コスト経営の開示の有無・質)",
+    "政策保有株の売却進行(売却益→還元原資の期待)",
+    "ネットキャッシュの厚さ+低配当性向(増配余地)",
+    "アクティビスト保有(大量保有報告書の提出履歴)"
+   ],
+   "criteria": [
+    {
+     "label": "予想配当利回り",
+     "value": "4.1%",
+     "rule": "4.0%以上",
+     "ok": true
+    },
+    {
+     "label": "PBR(割安さ)",
+     "value": "0.78倍",
+     "rule": "1.2倍以下",
+     "ok": true
+    },
+    {
+     "label": "PER(割安さ)",
+     "value": "8.96倍",
+     "rule": "12倍以下",
+     "ok": true
+    },
+    {
+     "label": "自己資本比率(財務耐性)",
+     "value": "62.0%",
+     "rule": "40%以上",
+     "ok": true
+    },
+    {
+     "label": "ROE(収益性=バリュートラップ回避)",
+     "value": "9.1%",
+     "rule": "8%以上",
+     "ok": true
+    },
+    {
+     "label": "配当性向(配当の無理のなさ)",
+     "value": "36.7%",
+     "rule": "30%〜60%",
+     "ok": true
+    }
+   ],
+   "summary": "予想利回り4.1%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+  },
+  {
    "code": "2286",
    "name": "林兼産業",
    "sector33": "3050",
-   "price": 890.0,
-   "yield": 0.0483,
-   "per": 7.27,
+   "price": 888.0,
+   "yield": 0.0484,
+   "per": 7.25,
    "pbr": 0.64,
    "equity_ratio": 0.413,
    "roe": 0.08,
    "payout": 0.351,
-   "score": 35.2,
+   "score": 35.4,
    "score_breakdown": {
-    "yield": 8.3,
+    "yield": 8.4,
     "equity": 1.0,
     "pbr": 14.1,
-    "per": 11.8
+    "per": 11.9
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -1098,7 +1032,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "7.27倍",
+     "value": "7.25倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -1127,19 +1061,19 @@
    "code": "4172",
    "name": "Ｈｉクラテス",
    "sector33": "5250",
-   "price": 2178.0,
-   "yield": 0.0404,
-   "per": 10.74,
+   "price": 2188.0,
+   "yield": 0.0402,
+   "per": 10.79,
    "pbr": 1.16,
    "equity_ratio": 0.924,
    "roe": 0.106,
    "payout": 0.434,
-   "score": 34.6,
+   "score": 34.2,
    "score_breakdown": {
-    "yield": 0.4,
+    "yield": 0.2,
     "equity": 30.0,
-    "pbr": 1.1,
-    "per": 3.1
+    "pbr": 1.0,
+    "per": 3.0
    },
    "stock_type_bonus": true,
    "checklist": [
@@ -1164,7 +1098,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "10.74倍",
+     "value": "10.79倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -1193,18 +1127,18 @@
    "code": "5284",
    "name": "ヤマウホールディングス",
    "sector33": "3400",
-   "price": 2260.0,
-   "yield": 0.0456,
-   "per": 6.59,
+   "price": 2271.0,
+   "yield": 0.0454,
+   "per": 6.62,
    "pbr": 1.12,
    "equity_ratio": 0.578,
    "roe": 0.185,
    "payout": 0.3,
-   "score": 34.4,
+   "score": 34.1,
    "score_breakdown": {
-    "yield": 5.6,
+    "yield": 5.4,
     "equity": 13.3,
-    "pbr": 2.0,
+    "pbr": 1.9,
     "per": 13.5
    },
    "stock_type_bonus": false,
@@ -1218,7 +1152,7 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "4.6%",
+     "value": "4.5%",
      "rule": "4.0%以上",
      "ok": true
     },
@@ -1230,7 +1164,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.59倍",
+     "value": "6.62倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -1253,25 +1187,25 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り4.6%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+   "summary": "予想利回り4.5%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   },
   {
    "code": "7646",
    "name": "ＰＬＡＮＴ",
    "sector33": "6100",
-   "price": 1775.0,
-   "yield": 0.0535,
-   "per": 8.01,
-   "pbr": 0.8,
+   "price": 1790.0,
+   "yield": 0.0531,
+   "per": 8.08,
+   "pbr": 0.81,
    "equity_ratio": 0.409,
    "roe": 0.088,
    "payout": 0.429,
-   "score": 34.2,
+   "score": 33.4,
    "score_breakdown": {
-    "yield": 13.5,
+    "yield": 13.1,
     "equity": 0.7,
-    "pbr": 10.0,
-    "per": 10.0
+    "pbr": 9.8,
+    "per": 9.8
    },
    "stock_type_bonus": false,
    "checklist": [
@@ -1290,13 +1224,13 @@
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.8倍",
+     "value": "0.81倍",
      "rule": "1.2倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "8.01倍",
+     "value": "8.08倍",
      "rule": "12倍以下",
      "ok": true
     },
@@ -1320,6 +1254,72 @@
     }
    ],
    "summary": "予想利回り5.3%で、割安・財務・収益性・配当余力の全条件を満たしています。"
+  },
+  {
+   "code": "6540",
+   "name": "船場",
+   "sector33": "9050",
+   "price": 1534.0,
+   "yield": 0.0489,
+   "per": 11.16,
+   "pbr": 1.12,
+   "equity_ratio": 0.659,
+   "roe": 0.104,
+   "payout": 0.546,
+   "score": 32.4,
+   "score_breakdown": {
+    "yield": 8.9,
+    "equity": 19.4,
+    "pbr": 2.0,
+    "per": 2.1
+   },
+   "stock_type_bonus": false,
+   "checklist": [
+    "累進配当/DOEの宣言有無:未判定(人間確認)",
+    "東証のPBR1倍割れ改善要請への対応開示(資本コスト経営の開示の有無・質)",
+    "政策保有株の売却進行(売却益→還元原資の期待)",
+    "ネットキャッシュの厚さ+低配当性向(増配余地)",
+    "アクティビスト保有(大量保有報告書の提出履歴)"
+   ],
+   "criteria": [
+    {
+     "label": "予想配当利回り",
+     "value": "4.9%",
+     "rule": "4.0%以上",
+     "ok": true
+    },
+    {
+     "label": "PBR(割安さ)",
+     "value": "1.12倍",
+     "rule": "1.2倍以下",
+     "ok": true
+    },
+    {
+     "label": "PER(割安さ)",
+     "value": "11.16倍",
+     "rule": "12倍以下",
+     "ok": true
+    },
+    {
+     "label": "自己資本比率(財務耐性)",
+     "value": "65.9%",
+     "rule": "40%以上",
+     "ok": true
+    },
+    {
+     "label": "ROE(収益性=バリュートラップ回避)",
+     "value": "10.4%",
+     "rule": "8%以上",
+     "ok": true
+    },
+    {
+     "label": "配当性向(配当の無理のなさ)",
+     "value": "54.6%",
+     "rule": "30%〜60%",
+     "ok": true
+    }
+   ],
+   "summary": "予想利回り4.9%で、割安・財務・収益性・配当余力の全条件を満たしています。"
   }
  ],
  "insufficient": [
