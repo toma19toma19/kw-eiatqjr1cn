@@ -34,6 +34,17 @@ h2 { font-size: 15px; margin: 14px 0 8px; color: #333; }
 .badge.purpose-short { background: #eef3ff; color: #2b57c9; }
 .badge.sub { background: #f0f0f3; color: #777; }
 .badge.hot { background: #ffecec; color: #c92b2b; }
+/* ①AI織り込み度分析の3分類(§3-3) */
+.ai-verdict { font-size: 13px; border-radius: 8px; padding: 8px 10px; margin: 6px 0; }
+.ai-verdict p { margin: 4px 0 0; line-height: 1.6; font-weight: 400; }
+.ai-verdict.ai-under { background: #e8f5ec; color: #0a7a38; border: 1px solid #bfe3cc; }
+.ai-verdict.ai-trap { background: #fff0f0; color: #b32424; border: 1px solid #eec7c7; }
+.ai-verdict.ai-uncertain { background: #fff8e8; color: #8a6a12; border: 1px solid #eadfba; }
+.ai-verdict.ai-pending { background: #f0f0f3; color: #777; border: 1px solid #e0e0e5; }
+.ai-detail { font-size: 12.5px; margin: 6px 0; }
+.ai-detail dt { font-weight: 700; color: #555; margin-top: 6px; }
+.ai-detail dd { margin: 2px 0 0; line-height: 1.6; color: #444; }
+.ai-detail ul { list-style: none; }
 .pos { color: #0a8f3c; } .neg { color: #c92b2b; }
 
 button.select-btn, #themeForm button, .modal button {
@@ -48,8 +59,6 @@ button.secondary { background: #888; }
 #themeForm { display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px; }
 #themeForm input { padding: 10px; border: 1px solid #ccc; border-radius: 8px; font-size: 14px; }
 
-.checklist { font-size: 12px; color: #555; margin-top: 6px; padding-left: 18px; }
-.checklist li { margin: 2px 0; }
 details summary { font-size: 13px; color: #777; cursor: pointer; margin: 8px 0; }
 
 .alert-line { font-size: 12px; color: #c9502b; margin-top: 4px; }
