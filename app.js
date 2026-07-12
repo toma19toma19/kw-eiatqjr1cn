@@ -145,7 +145,8 @@ function renderLong(d) {
     <div class="card">
       <div class="head">
         <div><span class="name">${esc(r.name)}</span><span class="code">${esc(r.code)}</span>
-          ${r.stock_type_bonus ? '<span class="badge">収益安定業種</span>' : ""}</div>
+          ${r.stock_type_bonus ? '<span class="badge">収益安定業種</span>' : ""}
+          ${r.forecast_stale ? '<span class="badge warn">予想が旧年度ベースの可能性</span>' : ""}</div>
         ${kv("現在値", yen(r.price))}
       </div>
       ${aiBlock(r)}
