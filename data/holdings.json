@@ -8,8 +8,8 @@
    "theme": null,
    "entry_date": "2026-07-07",
    "entry_price": 1773.0,
-   "current_price": 1789.0,
-   "return": 0.009,
+   "current_price": 1788.0,
+   "return": 0.0085,
    "exit": {
     "type": "long",
     "conditions": [
@@ -32,8 +32,8 @@
    "theme": null,
    "entry_date": "2026-07-08",
    "entry_price": 933.0,
-   "current_price": 929.0,
-   "return": -0.0043,
+   "current_price": 925.0,
+   "return": -0.0086,
    "exit": {
     "type": "long",
     "conditions": [
