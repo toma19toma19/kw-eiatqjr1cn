@@ -3,25 +3,73 @@
  "themes": {
   "フィジカルAI": [
    {
-    "code": "6902",
-    "name": "デンソー",
+    "code": "6501",
+    "name": "日立製作所",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 69.0,
+    "score": 70.2,
     "breakdown": {
-     "untouched": 38.0,
+     "untouched": 39.2,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.015,
+    "return_1m": 0.006,
     "hot_flag": false,
-    "reason": "車載センサー・アクチュエータ技術をロボティクス分野にも展開",
-    "price": 1964.0,
+    "reason": "「世界トップのフィジカルAIの使い手となる」と表明し関連事業に注力",
+    "price": 4792.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月1.5%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月0.6%)→ 波及余地あり",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績の勢いは未確認"
+    ]
+   },
+   {
+    "code": "6702",
+    "name": "富士通",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 66.9,
+    "breakdown": {
+     "untouched": 35.9,
+     "financial": 20.0,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.031,
+    "hot_flag": false,
+    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
+    "price": 3309.0,
+    "financial_ok": true,
+    "points": [
+     "まだ大きく買われていない(1ヶ月3.1%)→ 波及余地あり",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績の勢いは未確認"
+    ]
+   },
+   {
+    "code": "6902",
+    "name": "デンソー",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 64.5,
+    "breakdown": {
+     "untouched": 33.5,
+     "financial": 20.0,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.048,
+    "hot_flag": false,
+    "reason": "車載センサー・アクチュエータ技術をロボティクス分野にも展開",
+    "price": 1992.5,
+    "financial_ok": true,
+    "points": [
+     "まだ大きく買われていない(1ヶ月4.8%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -31,21 +79,21 @@
     "name": "トヨタ自動車",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 65.4,
+    "score": 62.4,
     "breakdown": {
-     "untouched": 34.9,
+     "untouched": 31.9,
      "financial": 19.5,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.038,
+    "return_1m": 0.061,
     "hot_flag": false,
     "reason": "トヨタ・リサーチ・インスティテュートなどでヒューマノイドロボット研究を推進",
-    "price": 2899.5,
+    "price": 2944.5,
     "financial_ok": false,
     "points": [
-     "まだ大きく買われていない(1ヶ月3.8%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月6.1%)→ 波及余地あり",
      "財務に注意(自己資本40%未満または赤字)",
      "業績の勢いは未確認"
     ]
@@ -55,21 +103,21 @@
     "name": "ソニーグループ",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 62.0,
+    "score": 57.5,
     "breakdown": {
-     "untouched": 31.0,
+     "untouched": 26.5,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.068,
+    "return_1m": 0.101,
     "hot_flag": false,
     "reason": "ロボットの「目」となるイメージセンサーで世界首位",
-    "price": 3470.0,
+    "price": 3458.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月6.8%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月10.1%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -87,13 +135,13 @@
      "liquidity": 10.0,
      "purity": 6.0
     },
-    "return_1m": -0.167,
+    "return_1m": -0.154,
     "hot_flag": false,
     "reason": "ヒューマノイドや協働ロボットの繊細な動きを支える波動歯車減速機で世界トップシェア",
-    "price": 6470.0,
+    "price": 6570.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-16.7%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-15.4%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -111,13 +159,13 @@
      "liquidity": 10.0,
      "purity": 5.0
     },
-    "return_1m": -0.126,
+    "return_1m": -0.093,
     "hot_flag": false,
     "reason": "産業ロボットにAIを適用するオープンプラットフォーム化を推進し、NVIDIAやGoogleと協業",
-    "price": 6637.0,
+    "price": 6776.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-12.6%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-9.3%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -135,13 +183,13 @@
      "liquidity": 10.0,
      "purity": 5.0
     },
-    "return_1m": -0.088,
+    "return_1m": -0.107,
     "hot_flag": false,
     "reason": "半導体・FPD向けウエハー搬送ロボットの最大手",
-    "price": 4403.0,
+    "price": 4343.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-8.8%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-10.7%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -159,13 +207,13 @@
      "liquidity": 10.0,
      "purity": 3.0
     },
-    "return_1m": -0.046,
+    "return_1m": -0.033,
     "hot_flag": false,
     "reason": "空気圧制御機器の世界最大手でロボットアクチュエータ部品を供給",
-    "price": 69230.0,
+    "price": 70460.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-4.6%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-3.3%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -183,61 +231,13 @@
      "liquidity": 9.8,
      "purity": 3.0
     },
-    "return_1m": -0.03,
+    "return_1m": -0.051,
     "hot_flag": false,
     "reason": "産業用ロボット・減速機・軸受を手掛ける総合機械メーカー",
-    "price": 5850.0,
+    "price": 5740.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-3.0%)→ テーマと連動していない疑い",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ]
-   },
-   {
-    "code": "6770",
-    "name": "アルプスアルパイン",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 46.0,
-    "breakdown": {
-     "untouched": 0.0,
-     "financial": 20.0,
-     "funda": 15.0,
-     "liquidity": 10.0,
-     "purity": 1.0
-    },
-    "return_1m": -0.06,
-    "hot_flag": false,
-    "reason": "センサー・アクチュエータなど電子部品をロボット向けにも供給",
-    "price": 2058.5,
-    "financial_ok": true,
-    "points": [
-     "注意:1ヶ月騰落率がマイナス(-6.0%)→ テーマと連動していない疑い",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ]
-   },
-   {
-    "code": "6407",
-    "name": "CKD",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 45.8,
-    "breakdown": {
-     "untouched": 0.0,
-     "financial": 20.0,
-     "funda": 12.8,
-     "liquidity": 10.0,
-     "purity": 3.0
-    },
-    "return_1m": -0.199,
-    "hot_flag": false,
-    "reason": "空気圧機器・FA機器メーカーでロボット関連部品を供給",
-    "price": 6280.0,
-    "financial_ok": true,
-    "points": [
-     "注意:1ヶ月騰落率がマイナス(-19.9%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-5.1%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
