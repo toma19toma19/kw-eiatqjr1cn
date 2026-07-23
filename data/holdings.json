@@ -8,8 +8,8 @@
    "theme": null,
    "entry_date": "2026-07-07",
    "entry_price": 1773.0,
-   "current_price": 1789.0,
-   "return": 0.009,
+   "current_price": 1785.0,
+   "return": 0.0068,
    "exit": {
     "type": "long",
     "conditions": [
@@ -32,8 +32,8 @@
    "theme": null,
    "entry_date": "2026-07-08",
    "entry_price": 933.0,
-   "current_price": 909.0,
-   "return": -0.0257,
+   "current_price": 915.0,
+   "return": -0.0193,
    "exit": {
     "type": "long",
     "conditions": [
@@ -56,17 +56,17 @@
    "theme": "フィジカルAI",
    "entry_date": "2026-07-16",
    "entry_price": 75000.0,
-   "current_price": 71850.0,
-   "return": -0.042,
+   "current_price": 72960.0,
+   "return": -0.0272,
    "exit": {
     "type": "theme",
     "profit_price": 90000.0,
     "loss_price": 69000.0,
-    "profit_gap": 0.2526,
-    "loss_gap": -0.0397,
+    "profit_gap": 0.2336,
+    "loss_gap": -0.0543,
     "days_max": 60,
-    "days_used": 3,
-    "days_left": 57
+    "days_used": 4,
+    "days_left": 56
    },
    "alerts": [
     "出来高がテーマ追加時の水準まで減衰(テーマ剥落の兆候)"
