@@ -1,51 +1,66 @@
 {
- "kessan": [],
+ "kessan": [
+  {
+   "code": "9502",
+   "name": "中部電力",
+   "module": "kessan",
+   "period": "3Q",
+   "progress": 1.047,
+   "threshold_a": 0.9,
+   "prior_avg": 0.808,
+   "announce_date": "2026-07-29",
+   "turnover20": 13834994395.0,
+   "price": 2866.0,
+   "summary": "3Q時点で通期予想の105%をすでに達成(合格基準90%、例年の同時期は81%)。このペースなら上方修正の開示義務が生じやすく、発表前の仕込み候補です。",
+   "days_to_announce": 1
+  }
+ ],
  "themes": {
   "フィジカルAI": [
+   {
+    "code": "6594",
+    "name": "ニデック",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 70.9,
+    "breakdown": {
+     "untouched": 38.9,
+     "financial": 20.0,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 2.0
+    },
+    "return_1m": 0.008,
+    "hot_flag": false,
+    "reason": "モーター世界大手でロボット・EV向け精密モーターを展開",
+    "price": 2564.0,
+    "financial_ok": true,
+    "points": [
+     "まだ大きく買われていない(1ヶ月0.8%)→ 波及余地あり",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績の勢いは未確認"
+    ]
+   },
    {
     "code": "6770",
     "name": "アルプスアルパイン",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 78.3,
+    "score": 70.8,
     "breakdown": {
-     "untouched": 32.3,
+     "untouched": 24.8,
      "financial": 20.0,
      "funda": 15.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.058,
+    "return_1m": 0.114,
     "hot_flag": false,
     "reason": "センサー・アクチュエータなど電子部品をロボット向けにも供給",
-    "price": 2235.5,
+    "price": 2207.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月5.8%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ]
-   },
-   {
-    "code": "3132",
-    "name": "マクニカホールディングス",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 76.8,
-    "breakdown": {
-     "untouched": 30.0,
-     "financial": 20.0,
-     "funda": 14.8,
-     "liquidity": 10.0,
-     "purity": 2.0
-    },
-    "return_1m": 0.075,
-    "hot_flag": false,
-    "reason": "半導体商社でエッジAI・ロボティクス向けソリューションを提供",
-    "price": 3579.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月7.5%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月11.4%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -55,21 +70,21 @@
     "name": "ジェイテクト",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 68.2,
+    "score": 69.8,
     "breakdown": {
-     "untouched": 36.2,
+     "untouched": 37.8,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 2.0
     },
-    "return_1m": 0.029,
+    "return_1m": 0.016,
     "hot_flag": false,
     "reason": "軸受・工作機械メーカーでロボット関連部品を一部供給",
-    "price": 2105.0,
+    "price": 2062.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月2.9%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月1.6%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -79,28 +94,52 @@
     "name": "DMG森精機",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 67.5,
+    "score": 68.7,
     "breakdown": {
-     "untouched": 36.0,
+     "untouched": 37.2,
      "financial": 19.5,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 2.0
     },
-    "return_1m": 0.03,
+    "return_1m": 0.021,
     "hot_flag": false,
     "reason": "工作機械大手でAIを活用した自動化・省人化ソリューションを推進",
-    "price": 3796.0,
+    "price": 3591.0,
     "financial_ok": false,
     "points": [
-     "まだ大きく買われていない(1ヶ月3.0%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月2.1%)→ 波及余地あり",
      "財務に注意(自己資本40%未満または赤字)",
      "業績の勢いは未確認"
     ]
    },
    {
-    "code": "6702",
-    "name": "富士通",
+    "code": "7203",
+    "name": "トヨタ自動車",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 58.9,
+    "breakdown": {
+     "untouched": 28.4,
+     "financial": 19.5,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.087,
+    "hot_flag": false,
+    "reason": "トヨタ・リサーチ・インスティテュートなどでヒューマノイドロボット研究を推進",
+    "price": 3008.0,
+    "financial_ok": false,
+    "points": [
+     "まだ大きく買われていない(1ヶ月8.7%)→ 波及余地あり",
+     "財務に注意(自己資本40%未満または赤字)",
+     "業績の勢いは未確認"
+    ]
+   },
+   {
+    "code": "6501",
+    "name": "日立製作所",
     "module": "theme",
     "theme": "フィジカルAI",
     "score": 58.7,
@@ -111,61 +150,13 @@
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.093,
-    "hot_flag": false,
-    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
-    "price": 3482.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月9.3%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績の勢いは未確認"
-    ]
-   },
-   {
-    "code": "7203",
-    "name": "トヨタ自動車",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 57.4,
-    "breakdown": {
-     "untouched": 26.9,
-     "financial": 19.5,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 1.0
-    },
-    "return_1m": 0.098,
-    "hot_flag": false,
-    "reason": "トヨタ・リサーチ・インスティテュートなどでヒューマノイドロボット研究を推進",
-    "price": 2965.5,
-    "financial_ok": false,
-    "points": [
-     "まだ大きく買われていない(1ヶ月9.8%)→ 波及余地あり",
-     "財務に注意(自己資本40%未満または赤字)",
-     "業績の勢いは未確認"
-    ]
-   },
-   {
-    "code": "6501",
-    "name": "日立製作所",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 57.3,
-    "breakdown": {
-     "untouched": 26.3,
-     "financial": 20.0,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 1.0
-    },
-    "return_1m": 0.103,
+    "return_1m": 0.092,
     "hot_flag": false,
     "reason": "「世界トップのフィジカルAIの使い手となる」と表明し関連事業に注力",
-    "price": 5023.0,
+    "price": 4890.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月10.3%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月9.2%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -175,21 +166,21 @@
     "name": "デンソー",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 57.0,
+    "score": 56.5,
     "breakdown": {
-     "untouched": 26.0,
+     "untouched": 25.5,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.105,
+    "return_1m": 0.109,
     "hot_flag": false,
     "reason": "車載センサー・アクチュエータ技術をロボティクス分野にも展開",
-    "price": 2056.0,
+    "price": 2079.5,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月10.5%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月10.9%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -199,21 +190,45 @@
     "name": "ソニーグループ",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 55.3,
+    "score": 51.7,
     "breakdown": {
-     "untouched": 24.3,
+     "untouched": 20.7,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.118,
+    "return_1m": 0.145,
     "hot_flag": false,
     "reason": "ロボットの「目」となるイメージセンサーで世界首位",
-    "price": 3574.0,
+    "price": 3662.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月11.8%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月14.5%)→ 波及余地あり",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績の勢いは未確認"
+    ]
+   },
+   {
+    "code": "6702",
+    "name": "富士通",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 50.1,
+    "breakdown": {
+     "untouched": 19.1,
+     "financial": 20.0,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.157,
+    "hot_flag": false,
+    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
+    "price": 3700.0,
+    "financial_ok": true,
+    "points": [
+     "まだ大きく買われていない(1ヶ月15.7%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
@@ -231,13 +246,13 @@
      "liquidity": 10.0,
      "purity": 6.0
     },
-    "return_1m": -0.166,
+    "return_1m": -0.186,
     "hot_flag": false,
     "reason": "ヒューマノイドや協働ロボットの繊細な動きを支える波動歯車減速機で世界トップシェア",
-    "price": 6590.0,
+    "price": 5780.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-16.6%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-18.6%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
