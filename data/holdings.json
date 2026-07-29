@@ -8,8 +8,8 @@
    "theme": null,
    "entry_date": "2026-07-07",
    "entry_price": 1773.0,
-   "current_price": 1806.0,
-   "return": 0.0186,
+   "current_price": 1789.0,
+   "return": 0.009,
    "exit": {
     "type": "long",
     "conditions": [
@@ -76,13 +76,5 @@
    "close_date": "2026-07-28"
   }
  ],
- "notifications": [
-  {
-   "type": "record",
-   "code": "6273",
-   "name": "SMC",
-   "message": "SMC(6273)が損切り(−8%到達)。仮想クローズしました(損益-13.1%)。実際に保有していれば売買検討のタイミングです。",
-   "date": "2026-07-28"
-  }
- ]
+ "notifications": []
 }
