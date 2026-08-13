@@ -32,8 +32,8 @@
    "theme": null,
    "entry_date": "2026-07-08",
    "entry_price": 933.0,
-   "current_price": 889.0,
-   "return": -0.0472,
+   "current_price": 888.0,
+   "return": -0.0482,
    "exit": {
     "type": "long",
     "conditions": [
