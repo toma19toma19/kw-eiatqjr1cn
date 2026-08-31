@@ -5,19 +5,19 @@
    "code": "6658",
    "name": "シライ電子工業",
    "sector33": "3650",
-   "price": 462.0,
-   "yield": 0.0758,
-   "per": 4.94,
+   "price": 459.0,
+   "yield": 0.0763,
+   "per": 4.91,
    "pbr": 0.63,
    "equity_ratio": 0.571,
    "roe": 0.118,
    "payout": 0.374,
-   "score": 63.8,
+   "score": 64.9,
    "score_breakdown": {
-    "yield": 33.2,
+    "yield": 34.0,
     "equity": 12.8,
-    "pbr": 6.3,
-    "per": 11.5
+    "pbr": 6.5,
+    "per": 11.6
    },
    "stock_type_bonus": false,
    "forecast_stale": true,
@@ -50,7 +50,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "4.94倍",
+     "value": "4.91倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -153,19 +153,19 @@
    "code": "1798",
    "name": "守谷商会",
    "sector33": "2050",
-   "price": 1054.0,
-   "yield": 0.1708,
-   "per": 5.22,
-   "pbr": 0.63,
+   "price": 1076.0,
+   "yield": 0.1673,
+   "per": 5.33,
+   "pbr": 0.64,
    "equity_ratio": 0.484,
    "roe": 0.091,
    "payout": 0.891,
-   "score": 63.0,
+   "score": 62.1,
    "score_breakdown": {
     "yield": 40.0,
     "equity": 6.3,
-    "pbr": 6.3,
-    "per": 10.4
+    "pbr": 5.8,
+    "per": 10.0
    },
    "stock_type_bonus": false,
    "forecast_stale": false,
@@ -184,19 +184,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "17.1%",
+     "value": "16.7%",
      "rule": "5.5%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.63倍",
+     "value": "0.64倍",
      "rule": "0.8倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "5.22倍",
+     "value": "5.33倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -219,22 +219,22 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り17.1%で、割安・財務・収益性・配当余力の粗選別を通過しています。"
+   "summary": "予想利回り16.7%で、割安・財務・収益性・配当余力の粗選別を通過しています。"
   },
   {
    "code": "9193",
    "name": "東京汽船",
    "sector33": "5200",
-   "price": 878.0,
-   "yield": 0.0569,
+   "price": 875.0,
+   "yield": 0.0571,
    "per": 1.73,
    "pbr": 0.31,
    "equity_ratio": 0.745,
    "roe": 0.172,
    "payout": 0.099,
-   "score": 59.0,
+   "score": 59.3,
    "score_breakdown": {
-    "yield": 3.1,
+    "yield": 3.4,
     "equity": 25.9,
     "pbr": 15.0,
     "per": 15.0
@@ -1552,6 +1552,18 @@
   {
    "code": "575A",
    "name": "前澤ホールディングス",
+   "missing": [
+    "yield",
+    "per",
+    "pbr",
+    "equity_ratio",
+    "roe",
+    "payout"
+   ]
+  },
+  {
+   "code": "92015",
+   "name": "日本航空（優先株式）",
    "missing": [
     "yield",
     "per",
