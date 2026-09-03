@@ -5,19 +5,19 @@
    "code": "6658",
    "name": "シライ電子工業",
    "sector33": "3650",
-   "price": 453.0,
-   "yield": 0.0773,
-   "per": 4.85,
-   "pbr": 0.62,
+   "price": 449.0,
+   "yield": 0.078,
+   "per": 4.8,
+   "pbr": 0.61,
    "equity_ratio": 0.571,
    "roe": 0.118,
    "payout": 0.374,
-   "score": 67.0,
+   "score": 68.5,
    "score_breakdown": {
-    "yield": 35.6,
+    "yield": 36.7,
     "equity": 12.8,
-    "pbr": 6.8,
-    "per": 11.8
+    "pbr": 7.0,
+    "per": 12.0
    },
    "stock_type_bonus": false,
    "forecast_stale": true,
@@ -38,19 +38,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "7.7%",
+     "value": "7.8%",
      "rule": "5.5%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.62倍",
+     "value": "0.61倍",
      "rule": "0.8倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "4.85倍",
+     "value": "4.8倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -73,25 +73,25 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り7.7%で、割安・財務・収益性・配当余力の粗選別を通過しています。注意:表示中の配当・利益予想は既に終了した年度向けの値です(新年度予想がデータ更新の遅れで未反映の可能性)。買い判断の前に最新の会社予想をご確認ください。"
+   "summary": "予想利回り7.8%で、割安・財務・収益性・配当余力の粗選別を通過しています。注意:表示中の配当・利益予想は既に終了した年度向けの値です(新年度予想がデータ更新の遅れで未反映の可能性)。買い判断の前に最新の会社予想をご確認ください。"
   },
   {
    "code": "6307",
    "name": "サンセイ",
    "sector33": "3600",
-   "price": 489.0,
-   "yield": 0.0613,
-   "per": 6.33,
-   "pbr": 0.71,
+   "price": 495.0,
+   "yield": 0.0606,
+   "per": 6.41,
+   "pbr": 0.72,
    "equity_ratio": 0.717,
    "roe": 0.144,
    "payout": 0.389,
-   "score": 43.5,
+   "score": 41.7,
    "score_breakdown": {
-    "yield": 10.2,
+    "yield": 9.0,
     "equity": 23.8,
-    "pbr": 3.3,
-    "per": 6.2
+    "pbr": 2.9,
+    "per": 6.0
    },
    "stock_type_bonus": false,
    "forecast_stale": false,
@@ -118,13 +118,13 @@
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.71倍",
+     "value": "0.72倍",
      "rule": "0.8倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.33倍",
+     "value": "6.41倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -225,16 +225,16 @@
    "code": "9193",
    "name": "東京汽船",
    "sector33": "5200",
-   "price": 881.0,
+   "price": 880.0,
    "yield": 0.0568,
    "per": 1.74,
    "pbr": 0.31,
    "equity_ratio": 0.745,
    "roe": 0.172,
    "payout": 0.099,
-   "score": 58.7,
+   "score": 58.8,
    "score_breakdown": {
-    "yield": 2.8,
+    "yield": 2.9,
     "equity": 25.9,
     "pbr": 15.0,
     "per": 15.0
