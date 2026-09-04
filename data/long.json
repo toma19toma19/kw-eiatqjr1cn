@@ -5,19 +5,19 @@
    "code": "6658",
    "name": "シライ電子工業",
    "sector33": "3650",
-   "price": 449.0,
-   "yield": 0.078,
-   "per": 4.8,
-   "pbr": 0.61,
+   "price": 452.0,
+   "yield": 0.0774,
+   "per": 4.83,
+   "pbr": 0.62,
    "equity_ratio": 0.571,
    "roe": 0.118,
    "payout": 0.374,
-   "score": 68.5,
+   "score": 67.4,
    "score_breakdown": {
-    "yield": 36.7,
+    "yield": 35.9,
     "equity": 12.8,
-    "pbr": 7.0,
-    "per": 12.0
+    "pbr": 6.8,
+    "per": 11.9
    },
    "stock_type_bonus": false,
    "forecast_stale": true,
@@ -38,19 +38,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "7.8%",
+     "value": "7.7%",
      "rule": "5.5%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.61倍",
+     "value": "0.62倍",
      "rule": "0.8倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "4.8倍",
+     "value": "4.83倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -73,25 +73,25 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り7.8%で、割安・財務・収益性・配当余力の粗選別を通過しています。注意:表示中の配当・利益予想は既に終了した年度向けの値です(新年度予想がデータ更新の遅れで未反映の可能性)。買い判断の前に最新の会社予想をご確認ください。"
+   "summary": "予想利回り7.7%で、割安・財務・収益性・配当余力の粗選別を通過しています。注意:表示中の配当・利益予想は既に終了した年度向けの値です(新年度予想がデータ更新の遅れで未反映の可能性)。買い判断の前に最新の会社予想をご確認ください。"
   },
   {
    "code": "6307",
    "name": "サンセイ",
    "sector33": "3600",
-   "price": 495.0,
-   "yield": 0.0606,
-   "per": 6.41,
+   "price": 493.0,
+   "yield": 0.0609,
+   "per": 6.39,
    "pbr": 0.72,
    "equity_ratio": 0.717,
    "roe": 0.144,
    "payout": 0.389,
-   "score": 41.7,
+   "score": 42.3,
    "score_breakdown": {
-    "yield": 9.0,
+    "yield": 9.4,
     "equity": 23.8,
-    "pbr": 2.9,
-    "per": 6.0
+    "pbr": 3.0,
+    "per": 6.1
    },
    "stock_type_bonus": false,
    "forecast_stale": false,
@@ -124,7 +124,7 @@
     },
     {
      "label": "PER(割安さ)",
-     "value": "6.41倍",
+     "value": "6.39倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -153,19 +153,19 @@
    "code": "1798",
    "name": "守谷商会",
    "sector33": "2050",
-   "price": 1100.0,
-   "yield": 0.1636,
-   "per": 5.45,
-   "pbr": 0.66,
+   "price": 1083.0,
+   "yield": 0.1662,
+   "per": 5.36,
+   "pbr": 0.65,
    "equity_ratio": 0.484,
    "roe": 0.091,
    "payout": 0.891,
-   "score": 61.2,
+   "score": 61.9,
    "score_breakdown": {
     "yield": 40.0,
     "equity": 6.3,
-    "pbr": 5.3,
-    "per": 9.6
+    "pbr": 5.7,
+    "per": 9.9
    },
    "stock_type_bonus": false,
    "forecast_stale": false,
@@ -184,19 +184,19 @@
    "criteria": [
     {
      "label": "予想配当利回り",
-     "value": "16.4%",
+     "value": "16.6%",
      "rule": "5.5%以上",
      "ok": true
     },
     {
      "label": "PBR(割安さ)",
-     "value": "0.66倍",
+     "value": "0.65倍",
      "rule": "0.8倍以下",
      "ok": true
     },
     {
      "label": "PER(割安さ)",
-     "value": "5.45倍",
+     "value": "5.36倍",
      "rule": "8倍以下",
      "ok": true
     },
@@ -219,22 +219,22 @@
      "ok": true
     }
    ],
-   "summary": "予想利回り16.4%で、割安・財務・収益性・配当余力の粗選別を通過しています。"
+   "summary": "予想利回り16.6%で、割安・財務・収益性・配当余力の粗選別を通過しています。"
   },
   {
    "code": "9193",
    "name": "東京汽船",
    "sector33": "5200",
-   "price": 880.0,
-   "yield": 0.0568,
+   "price": 882.0,
+   "yield": 0.0567,
    "per": 1.74,
    "pbr": 0.31,
    "equity_ratio": 0.745,
    "roe": 0.172,
    "payout": 0.099,
-   "score": 58.8,
+   "score": 58.6,
    "score_breakdown": {
-    "yield": 2.9,
+    "yield": 2.7,
     "equity": 25.9,
     "pbr": 15.0,
     "per": 15.0
