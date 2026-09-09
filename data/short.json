@@ -3,122 +3,26 @@
  "themes": {
   "フィジカルAI": [
    {
-    "code": "6482",
-    "name": "ユシン精機",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 85.6,
-    "breakdown": {
-     "untouched": 37.3,
-     "financial": 20.0,
-     "funda": 20.0,
-     "liquidity": 3.3,
-     "purity": 5.0
-    },
-    "return_1m": 0.02,
-    "hot_flag": false,
-    "reason": "樹脂成形機周辺の搬送ロボットを主力とする専業メーカー",
-    "price": 705.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月2.0%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
-    ]
-   },
-   {
-    "code": "6594",
-    "name": "ニデック",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 71.5,
-    "breakdown": {
-     "untouched": 39.5,
-     "financial": 20.0,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 2.0
-    },
-    "return_1m": 0.004,
-    "hot_flag": false,
-    "reason": "モーター世界大手でロボット・EV向け精密モーターを展開",
-    "price": 2722.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月0.4%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績の勢いは未確認"
-    ]
-   },
-   {
     "code": "6702",
     "name": "富士通",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 67.4,
-    "breakdown": {
-     "untouched": 36.4,
-     "financial": 20.0,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 1.0
-    },
-    "return_1m": 0.027,
-    "hot_flag": false,
-    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
-    "price": 3775.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月2.7%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績の勢いは未確認"
-    ]
-   },
-   {
-    "code": "6857",
-    "name": "アドバンテスト",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 64.3,
-    "breakdown": {
-     "untouched": 33.3,
-     "financial": 20.0,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 1.0
-    },
-    "return_1m": 0.05,
-    "hot_flag": false,
-    "reason": "半導体テスタ大手でAI半導体需要拡大の間接的な恩恵を受ける",
-    "price": 33800.0,
-    "financial_ok": true,
-    "points": [
-     "まだ大きく買われていない(1ヶ月5.0%)→ 波及余地あり",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績の勢いは未確認"
-    ]
-   },
-   {
-    "code": "3652",
-    "name": "ディジタルメディアプロフェッショナル",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 59.8,
+    "score": 70.1,
     "breakdown": {
      "untouched": 39.1,
-     "financial": 10.0,
+     "financial": 20.0,
      "funda": 0.0,
-     "liquidity": 4.7,
-     "purity": 6.0
+     "liquidity": 10.0,
+     "purity": 1.0
     },
     "return_1m": 0.007,
     "hot_flag": false,
-    "reason": "エッジAI向け半導体IP・組み込みAI技術を中核事業とする",
-    "price": 2497.0,
-    "financial_ok": false,
+    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
+    "price": 3745.0,
+    "financial_ok": true,
     "points": [
      "まだ大きく買われていない(1ヶ月0.7%)→ 波及余地あり",
-     "財務に注意(自己資本40%未満または赤字)",
+     "財務は健全(自己資本40%以上・黒字)",
      "業績の勢いは未確認"
     ]
    },
@@ -135,13 +39,37 @@
      "liquidity": 10.0,
      "purity": 3.0
     },
-    "return_1m": -0.115,
+    "return_1m": -0.133,
     "hot_flag": false,
     "reason": "空気圧制御機器の世界最大手でロボットアクチュエータ部品を供給",
-    "price": 65650.0,
+    "price": 67890.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-11.5%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-13.3%)→ テーマと連動していない疑い",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
+    ]
+   },
+   {
+    "code": "6482",
+    "name": "ユシン精機",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 48.3,
+    "breakdown": {
+     "untouched": 0.0,
+     "financial": 20.0,
+     "funda": 20.0,
+     "liquidity": 3.3,
+     "purity": 5.0
+    },
+    "return_1m": -0.036,
+    "hot_flag": false,
+    "reason": "樹脂成形機周辺の搬送ロボットを主力とする専業メーカー",
+    "price": 699.0,
+    "financial_ok": true,
+    "points": [
+     "注意:1ヶ月騰落率がマイナス(-3.6%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
     ]
@@ -159,13 +87,13 @@
      "liquidity": 10.0,
      "purity": 5.0
     },
-    "return_1m": -0.076,
+    "return_1m": -0.092,
     "hot_flag": false,
     "reason": "半導体・FPD向けウエハー搬送ロボットの最大手",
-    "price": 3655.0,
+    "price": 3669.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-7.6%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-9.2%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -183,13 +111,13 @@
      "liquidity": 10.0,
      "purity": 2.0
     },
-    "return_1m": -0.049,
+    "return_1m": -0.011,
     "hot_flag": false,
     "reason": "半導体商社でエッジAI・ロボティクス向けソリューションを提供",
-    "price": 3445.0,
+    "price": 3551.0,
     "financial_ok": false,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-4.9%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-1.1%)→ テーマと連動していない疑い",
      "財務に注意(自己資本40%未満または赤字)",
      "業績進捗はプラス材料"
     ]
@@ -231,14 +159,86 @@
      "liquidity": 10.0,
      "purity": 3.0
     },
-    "return_1m": -0.202,
+    "return_1m": -0.119,
     "hot_flag": false,
     "reason": "空気圧機器・FA機器メーカーでロボット関連部品を供給",
-    "price": 5050.0,
+    "price": 5310.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-20.2%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-11.9%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
+     "業績進捗はプラス材料"
+    ]
+   },
+   {
+    "code": "6324",
+    "name": "ハーモニック・ドライブ・システムズ",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 45.0,
+    "breakdown": {
+     "untouched": 0.0,
+     "financial": 20.0,
+     "funda": 9.0,
+     "liquidity": 10.0,
+     "purity": 6.0
+    },
+    "return_1m": -0.088,
+    "hot_flag": false,
+    "reason": "ヒューマノイドや協働ロボットの繊細な動きを支える波動歯車減速機で世界トップシェア",
+    "price": 5820.0,
+    "financial_ok": true,
+    "points": [
+     "注意:1ヶ月騰落率がマイナス(-8.8%)→ テーマと連動していない疑い",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績進捗はプラス材料"
+    ]
+   },
+   {
+    "code": "6474",
+    "name": "不二越(NACHI-FUJIKOSHI)",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 44.8,
+    "breakdown": {
+     "untouched": 0.0,
+     "financial": 20.0,
+     "funda": 13.6,
+     "liquidity": 8.2,
+     "purity": 3.0
+    },
+    "return_1m": -0.079,
+    "hot_flag": false,
+    "reason": "産業用ロボット・減速機・軸受を手掛ける総合機械メーカー",
+    "price": 5260.0,
+    "financial_ok": true,
+    "points": [
+     "注意:1ヶ月騰落率がマイナス(-7.9%)→ テーマと連動していない疑い",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績進捗はプラス材料"
+    ]
+   },
+   {
+    "code": "6472",
+    "name": "NTN",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 43.4,
+    "breakdown": {
+     "untouched": 0.0,
+     "financial": 18.4,
+     "funda": 13.0,
+     "liquidity": 10.0,
+     "purity": 2.0
+    },
+    "return_1m": -0.036,
+    "hot_flag": false,
+    "reason": "軸受(ベアリング)大手で機械の回転軸を支える基幹部品を製造",
+    "price": 370.8999938964844,
+    "financial_ok": false,
+    "points": [
+     "注意:1ヶ月騰落率がマイナス(-3.6%)→ テーマと連動していない疑い",
+     "財務に注意(自己資本40%未満または赤字)",
      "業績進捗はプラス材料"
     ]
    }
