@@ -3,50 +3,122 @@
  "themes": {
   "フィジカルAI": [
    {
-    "code": "6594",
-    "name": "ニデック",
+    "code": "6482",
+    "name": "ユシン精機",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 71.9,
+    "score": 88.2,
     "breakdown": {
-     "untouched": 39.9,
+     "untouched": 40.0,
      "financial": 20.0,
-     "funda": 0.0,
-     "liquidity": 10.0,
-     "purity": 2.0
+     "funda": 20.0,
+     "liquidity": 3.2,
+     "purity": 5.0
     },
-    "return_1m": 0.001,
+    "return_1m": 0.0,
     "hot_flag": false,
-    "reason": "モーター世界大手でロボット・EV向け精密モーターを展開",
-    "price": 2737.0,
+    "reason": "樹脂成形機周辺の搬送ロボットを主力とする専業メーカー",
+    "price": 700.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月0.1%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月0.0%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
-     "業績の勢いは未確認"
+     "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
     ]
    },
    {
-    "code": "6702",
-    "name": "富士通",
+    "code": "3132",
+    "name": "マクニカホールディングス",
     "module": "theme",
     "theme": "フィジカルAI",
-    "score": 67.9,
+    "score": 85.3,
     "breakdown": {
-     "untouched": 36.9,
+     "untouched": 38.6,
+     "financial": 19.9,
+     "funda": 14.8,
+     "liquidity": 10.0,
+     "purity": 2.0
+    },
+    "return_1m": 0.01,
+    "hot_flag": false,
+    "reason": "半導体商社でエッジAI・ロボティクス向けソリューションを提供",
+    "price": 3761.0,
+    "financial_ok": false,
+    "points": [
+     "まだ大きく買われていない(1ヶ月1.0%)→ 波及余地あり",
+     "財務に注意(自己資本40%未満または赤字)",
+     "業績進捗はプラス材料"
+    ]
+   },
+   {
+    "code": "6770",
+    "name": "アルプスアルパイン",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 70.6,
+    "breakdown": {
+     "untouched": 39.5,
+     "financial": 20.0,
+     "funda": 0.1,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.004,
+    "hot_flag": false,
+    "reason": "センサー・アクチュエータなど電子部品をロボット向けにも供給",
+    "price": 2216.0,
+    "financial_ok": true,
+    "points": [
+     "まだ大きく買われていない(1ヶ月0.4%)→ 波及余地あり",
+     "財務は健全(自己資本40%以上・黒字)",
+     "業績進捗はプラス材料"
+    ]
+   },
+   {
+    "code": "6902",
+    "name": "デンソー",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 69.6,
+    "breakdown": {
+     "untouched": 38.6,
      "financial": 20.0,
      "funda": 0.0,
      "liquidity": 10.0,
      "purity": 1.0
     },
-    "return_1m": 0.024,
+    "return_1m": 0.01,
     "hot_flag": false,
-    "reason": "カーネギーメロン大学とフィジカルAI領域の共同研究を推進",
-    "price": 3788.0,
+    "reason": "車載センサー・アクチュエータ技術をロボティクス分野にも展開",
+    "price": 1921.0,
     "financial_ok": true,
     "points": [
-     "まだ大きく買われていない(1ヶ月2.4%)→ 波及余地あり",
+     "まだ大きく買われていない(1ヶ月1.0%)→ 波及余地あり",
      "財務は健全(自己資本40%以上・黒字)",
+     "業績の勢いは未確認"
+    ]
+   },
+   {
+    "code": "7203",
+    "name": "トヨタ自動車",
+    "module": "theme",
+    "theme": "フィジカルAI",
+    "score": 68.3,
+    "breakdown": {
+     "untouched": 37.9,
+     "financial": 19.4,
+     "funda": 0.0,
+     "liquidity": 10.0,
+     "purity": 1.0
+    },
+    "return_1m": 0.015,
+    "hot_flag": false,
+    "reason": "トヨタ・リサーチ・インスティテュートなどでヒューマノイドロボット研究を推進",
+    "price": 3031.0,
+    "financial_ok": false,
+    "points": [
+     "まだ大きく買われていない(1ヶ月1.5%)→ 波及余地あり",
+     "財務に注意(自己資本40%未満または赤字)",
      "業績の勢いは未確認"
     ]
    },
@@ -87,37 +159,13 @@
      "liquidity": 10.0,
      "purity": 3.0
     },
-    "return_1m": -0.136,
+    "return_1m": -0.119,
     "hot_flag": false,
     "reason": "空気圧制御機器の世界最大手でロボットアクチュエータ部品を供給",
-    "price": 67680.0,
+    "price": 68160.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-13.6%)→ テーマと連動していない疑い",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
-    ]
-   },
-   {
-    "code": "6482",
-    "name": "ユシン精機",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 48.3,
-    "breakdown": {
-     "untouched": 0.0,
-     "financial": 20.0,
-     "funda": 20.0,
-     "liquidity": 3.3,
-     "purity": 5.0
-    },
-    "return_1m": -0.022,
-    "hot_flag": false,
-    "reason": "樹脂成形機周辺の搬送ロボットを主力とする専業メーカー",
-    "price": 697.0,
-    "financial_ok": true,
-    "points": [
-     "注意:1ヶ月騰落率がマイナス(-2.2%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-11.9%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗が決算プレイ基準も満たす(テーマ×業績の二重根拠=最優先級)"
     ]
@@ -135,38 +183,14 @@
      "liquidity": 10.0,
      "purity": 5.0
     },
-    "return_1m": -0.11,
+    "return_1m": -0.186,
     "hot_flag": false,
     "reason": "半導体・FPD向けウエハー搬送ロボットの最大手",
-    "price": 3649.0,
+    "price": 3464.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-11.0%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-18.6%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ]
-   },
-   {
-    "code": "3132",
-    "name": "マクニカホールディングス",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 46.7,
-    "breakdown": {
-     "untouched": 0.0,
-     "financial": 19.9,
-     "funda": 14.8,
-     "liquidity": 10.0,
-     "purity": 2.0
-    },
-    "return_1m": -0.001,
-    "hot_flag": false,
-    "reason": "半導体商社でエッジAI・ロボティクス向けソリューションを提供",
-    "price": 3674.0,
-    "financial_ok": false,
-    "points": [
-     "注意:1ヶ月騰落率がマイナス(-0.1%)→ テーマと連動していない疑い",
-     "財務に注意(自己資本40%未満または赤字)",
      "業績進捗はプラス材料"
     ]
    },
@@ -183,13 +207,13 @@
      "liquidity": 10.0,
      "purity": 5.0
     },
-    "return_1m": -0.138,
+    "return_1m": -0.118,
     "hot_flag": false,
     "reason": "産業ロボットにAIを適用するオープンプラットフォーム化を推進し、NVIDIAやGoogleと協業",
-    "price": 5794.0,
+    "price": 5735.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-13.8%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-11.8%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
@@ -207,37 +231,13 @@
      "liquidity": 10.0,
      "purity": 3.0
     },
-    "return_1m": -0.159,
+    "return_1m": -0.198,
     "hot_flag": false,
     "reason": "空気圧機器・FA機器メーカーでロボット関連部品を供給",
-    "price": 5190.0,
+    "price": 5060.0,
     "financial_ok": true,
     "points": [
-     "注意:1ヶ月騰落率がマイナス(-15.9%)→ テーマと連動していない疑い",
-     "財務は健全(自己資本40%以上・黒字)",
-     "業績進捗はプラス材料"
-    ]
-   },
-   {
-    "code": "6324",
-    "name": "ハーモニック・ドライブ・システムズ",
-    "module": "theme",
-    "theme": "フィジカルAI",
-    "score": 45.0,
-    "breakdown": {
-     "untouched": 0.0,
-     "financial": 20.0,
-     "funda": 9.0,
-     "liquidity": 10.0,
-     "purity": 6.0
-    },
-    "return_1m": -0.066,
-    "hot_flag": false,
-    "reason": "ヒューマノイドや協働ロボットの繊細な動きを支える波動歯車減速機で世界トップシェア",
-    "price": 5980.0,
-    "financial_ok": true,
-    "points": [
-     "注意:1ヶ月騰落率がマイナス(-6.6%)→ テーマと連動していない疑い",
+     "注意:1ヶ月騰落率がマイナス(-19.8%)→ テーマと連動していない疑い",
      "財務は健全(自己資本40%以上・黒字)",
      "業績進捗はプラス材料"
     ]
